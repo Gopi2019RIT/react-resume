@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-resume/static/css/main.7eebc124.css",
-    "main.js": "/react-resume/static/js/main.b80ebb9d.js",
-    "static/js/787.0b22edfb.chunk.js": "/react-resume/static/js/787.0b22edfb.chunk.js",
-    "index.html": "/react-resume/index.html",
-    "main.7eebc124.css.map": "/react-resume/static/css/main.7eebc124.css.map",
-    "main.b80ebb9d.js.map": "/react-resume/static/js/main.b80ebb9d.js.map",
-    "787.0b22edfb.chunk.js.map": "/react-resume/static/js/787.0b22edfb.chunk.js.map"
+    "main.css": "/react-resume/dereact/static/css/main.7eebc124.css",
+    "main.js": "/react-resume/dereact/static/js/main.aed9b3bf.js",
+    "static/js/787.0b22edfb.chunk.js": "/react-resume/dereact/static/js/787.0b22edfb.chunk.js",
+    "index.html": "/react-resume/dereact/index.html",
+    "main.7eebc124.css.map": "/react-resume/dereact/static/css/main.7eebc124.css.map",
+    "main.aed9b3bf.js.map": "/react-resume/dereact/static/js/main.aed9b3bf.js.map",
+    "787.0b22edfb.chunk.js.map": "/react-resume/dereact/static/js/787.0b22edfb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7eebc124.css",
-    "static/js/main.b80ebb9d.js"
+    "static/js/main.aed9b3bf.js"
   ]
 }
